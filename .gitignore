@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+# ignore file
+LoanStats_2019Q1.csv
+
+# ignore other file 
+clean_loans.csv
+
 # C extensions
 *.so
 
